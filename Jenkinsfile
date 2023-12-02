@@ -30,7 +30,7 @@ pipeline {
                     echo "User Hobby (Initial): ${userHobby}"
 
                     // Redefining the favorite color
-                    favoriteColor = 'Green'
+                    favoriteColor = 'Pink'
 
                     // Displaying updated values
                     echo "Updated values:"
