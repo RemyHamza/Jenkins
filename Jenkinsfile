@@ -15,8 +15,8 @@ pipeline {
             steps {
                 script {
                     // Creating and using environment variables
-                    def userName = 'John Doe'
-                    def favoriteColor = 'Blue'
+                    def userName = 'Malone Brefogel'
+                    def favoriteColor = 'Red'
 
                     // Displaying initial values
                     echo "Initial values:"
